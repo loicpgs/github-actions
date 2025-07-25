@@ -29,4 +29,4 @@ Objectif : comprendre, créer et maîtriser des workflows d'intégration et de d
 - 🔐 Scans de sécurité automatisés
 - 🐳 Intégration Docker + CI/CD
 
-correction de la faute #1
+correction de la faute #2
