@@ -29,4 +29,4 @@ Objectif : comprendre, créer et maîtriser des workflows d'intégration et de d
 - 🔐 Scans de sécurité automatisés
 - 🐳 Intégration Docker + CI/CD
 
-\n*Issue #1 résolue rapidement pour test Quickdraw*
+correction de la faute #1
