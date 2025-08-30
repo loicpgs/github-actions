@@ -16,6 +16,9 @@ Objectif : comprendre, créer et maîtriser des workflows d'intégration et de d
 - Ajouter un badge de statut dynamique dans le README
 - Créer une base solide pour automatiser projets personnels et pro
 
+## Pull Shark Bronze Test
+➡️ Cette PR sert à déclencher l’obtention du badge Pull Shark Bronze 🦈
+
 ---
 
 ⚙️ **Statut du pipeline :**  
